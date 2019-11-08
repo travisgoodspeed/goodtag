@@ -1,0 +1,33 @@
+Designator	Package			QTY	Designation		Digikey
+U1		RF430FRL152H		1	RF430FRL152		296-42545-1-ND
+C1,C5		0402 (1005 metric)	2	22pF			311-1018-1-ND
+RT1		0402 (1005 metric)	2	100K Thermistor		490-2404-1-ND
+R3		0402 (1005 metric)	2	100K			P100KDECT-ND
+R1,R2		0402 (1005 metric)	2	1K			YAG1234CT-ND
+C2		0402 (1005 metric)	1	91pF			311-3756-1-ND
+R10,R11		0402 (1005 metric)	2	0R			RMCF0402ZT0R00CT-ND
+R4		0402 (1005 metric)	1	10K			RR05P10.0KDCT-ND
+C3,C4,C8,C12	0402 (1005 metric)	4	100nF			1276-1004-1-ND
+C11		0402 (1005 metric)	1	1µF			1276-1235-1-ND
+C7,C9		0402 (1005 metric)	2	10nF			311-1014-1-ND
+C6		0402 (1005 metric)	1	2.2µF			587-3153-1-ND
+
+
+Notes:
+
+1) Do not populate the pin headers or the U.FL antenna connector.
+
+2) The sum of C2 and C10 should be roughly 88pF.  I used four 22pF
+   caps to verify this, but one 91pF cap on C2 will probably work just
+   fine when C10 is not populated.
+
+3) R10 and R11 are listed as zero Ohm, but larger values probably
+   wouldn't hurt.  Later revisions might drop one or both of them for
+   wire traces.
+
+4) This first revision of the PCB does not support a battery.  Later
+   versions might add an optional one.
+
+5) The RF430FRL152 is the most featureful, but in mass production for
+   a specific application, you can probably save some money by
+   substituting the FRL153 or 154.
