@@ -52,6 +52,11 @@ ROM](https://github.com/travisgoodspeed/goodtag/wiki/ROM), and the use
 of its brother, the otherwise undocumented
 [RF430TAL152H](https://github.com/travisgoodspeed/goodtag/wiki/RF430TAL152H).
 
+Axelle Apvrille and Travis Goodspeed presented [The Inner Guts of a
+Connected Glucose
+Sensor](https://github.com/cryptax/talks/blob/master/BlackAlps-2019/glucose-blackalps2019.pdf)
+at BlackAlps 2019, describing a medical sensor that uses the
+[RF430TAL152H](https://github.com/travisgoodspeed/goodtag/wiki/RF430TAL152H).
 
 ## Firmware
 
