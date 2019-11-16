@@ -17,10 +17,23 @@ This project cannot implement ISO 7816 or ISO 14443 interfaces of
 older NFC tags.  For that, you probably need a board designed around
 the LPC8N04 or some other microcontroller.
 
+It has partial support for the RF430TAL152H chip found in some medical
+devices, written as part of a research project with Axelle Apvrille,
+which we presented as [The Inner Guts of a Connected Glucose Sensor
+for
+Diabetes](https://github.com/cryptax/talks/blob/master/BlackAlps-2019/glucose-blackalps2019.pdf)
+at BlackAlps 2019.
+
 73 from Yverdon les Bains,
 
 --Travis Goodspeed
 
+## Getting Started
+
+A tutorial on building a first project will be added to the [GoodTag
+Wiki](https://github.com/travisgoodspeed/goodtag/wiki) as soon as I
+find time.  You will need an assembled board, a Linux shell account,
+and a recent Android phone, such as the Pixel 3.
 
 ## Toolchain
 
