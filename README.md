@@ -30,10 +30,11 @@ at BlackAlps 2019.
 
 ## Getting Started
 
-A tutorial on building a first project will be added to the [GoodTag
-Wiki](https://github.com/travisgoodspeed/goodtag/wiki) as soon as I
-find time.  You will need an assembled board, a Linux shell account,
-and a recent Android phone, such as the Pixel 3.
+See the
+[GettingStarted](https://github.com/travisgoodspeed/goodtag/wiki/GettingStarted)
+page of the wiki for details on how to begin.  You will need an
+assembled board, a Linux shell account, and a recent Android phone,
+such as the Pixel 3.
 
 ## Toolchain
 
