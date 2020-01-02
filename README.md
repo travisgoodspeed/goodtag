@@ -28,6 +28,8 @@ at BlackAlps 2019.
 
 --Travis Goodspeed
 
+![GoodTag11 PCB](photos/goodtag11.jpg)
+
 ## Getting Started
 
 A tutorial on building a first project will be added to the [GoodTag
